@@ -1,0 +1,41 @@
+_repo: Die-Eroberung-von-Peru-b-Historische-Originalnovelle_74920
+_version: 0.0.1
+alternative_title: La conquista del Perú. German
+contributor:
+  translator:
+    agent_name: Knabenhans, Adolf
+    gutenberg_agent_id: '57728'
+    url: http://www.gutenberg.org/2009/agents/57728
+creator:
+  author:
+    agent_name: Alonso de la Avecilla, Pablo
+    aliases:
+    - De la Avecilla, Pablo Alonso
+    - La Avecilla, Pablo Alonso de
+    - Avecilla, Pablo Alonso de la
+    - Avecilla, Don Pablo de
+    birthdate: 1810
+    deathdate: 1860
+    gutenberg_agent_id: '57727'
+    url: http://www.gutenberg.org/2009/agents/57727
+    wikipedia: https://es.wikipedia.org/wiki/Pablo_Alonso_de_la_Avecilla
+description: ''
+gutenberg_issued: '2024-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74920'
+language: de
+pgterms:marc905: 20230319085645avecilla
+pgterms:marc906: '1894'
+pgterms:marc907: de
+production_note: Richard Illner and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aErfurt, Zürich, Leipzig :$bVerlag von Eduard Moos, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peru -- History -- Conquest, 1522-1548 -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'Die Eroberung von Peru : $b Historische Originalnovelle'
+url: http://www.gutenberg.org/ebooks/74920
