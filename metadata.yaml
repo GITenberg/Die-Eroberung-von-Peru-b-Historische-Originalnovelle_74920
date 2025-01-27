@@ -6,6 +6,9 @@ contributor:
     agent_name: Knabenhans, Adolf
     gutenberg_agent_id: '57728'
     url: http://www.gutenberg.org/2009/agents/57728
+covers:
+- cover_type: archival
+  image_path: 74920-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Alonso de la Avecilla, Pablo
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57727
     wikipedia: https://es.wikipedia.org/wiki/Pablo_Alonso_de_la_Avecilla
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74920#Die-Eroberung-von-Peru-b-Historische-Originalnovelle
 gutenberg_issued: '2024-12-17'
 gutenberg_type: Text
 identifiers:
